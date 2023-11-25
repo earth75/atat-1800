@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MPS3326")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "PLATE")(type "KiCad")(uri "${KIPRJMOD}/acheron_MX_PlateSlots.pretty")(options "")(descr ""))
+)
